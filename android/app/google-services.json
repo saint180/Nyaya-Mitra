@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124667852285",
+    "project_id": "oceanic-catcher-430610-d9",
+    "storage_bucket": "oceanic-catcher-430610-d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124667852285:android:8c8b544bcb15bcd32bd594",
+        "android_client_info": {
+          "package_name": "com.example.helllllllo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuJm7SiAh_v3P2v2L8YmmNqwdU1OQyU-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
